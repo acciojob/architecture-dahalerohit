@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+u{
+	color:purple;
+}
+.first{
+	width:200px;
+}
+.middle{
+	width:600px;
+}
+h4{
+	text-align:center;
+}
+img{
+	position:relative
+}
